@@ -7,6 +7,7 @@
   <tr>
     <td align="center"><a href="https://github.com/lcy8047"><img src="https://avatars.githubusercontent.com/u/35690965?v=4" width="100px;" alt=""/><br /><sub><b>lcy8047</b></sub></a></td>
     <td align="center"><a href="https://github.com/publdaze"><img src="https://avatars.githubusercontent.com/u/78250089?v=4" width="100px;" alt=""/><br /><sub><b>publdaze</b></sub></a></td>
+    <td align="center"><a href="https://github.com/llddang"><img src="https://avatars.githubusercontent.com/u/77055208?v=4" width="100px;" alt=""/><br /><sub><b>llddang</b></sub></a></td>
   </tr>
 </table>
 
