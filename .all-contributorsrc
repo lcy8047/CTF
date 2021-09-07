@@ -1,0 +1,69 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "lcy8047",
+      "name": "lcy8047",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35690965?v=4",
+      "profile": "https://github.com/lcy8047",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "publdaze",
+      "name": "publdaze",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78250089?v=4",
+      "profile": "https://github.com/publdaze",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "llddang",
+      "name": "llddang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77055208?v=4",
+      "profile": "https://github.com/llddang",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "1004-head",
+      "name": "1004-head",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65378326?v=4",
+      "profile": "https://github.com/1004-head",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tmdals010126",
+      "name": "tmdals010126",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26674692?v=4",
+      "profile": "https://github.com/tmdals010126",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "projectName": "CTF",
+  "projectOwner": "lcy8047",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
