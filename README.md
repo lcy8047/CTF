@@ -10,6 +10,7 @@
     <td align="center"><a href="https://github.com/llddang"><img src="https://avatars.githubusercontent.com/u/77055208?v=4" width="100px;" alt=""/><br /><sub><b>llddang</b></sub></a></td>
     <td align="center"><a href="https://github.com/1004-head"><img src="https://avatars.githubusercontent.com/u/65378326?v=4" width="100px;" alt=""/><br /><sub><b>1004-head</b></sub></a></td>
     <td align="center"><a href="https://github.com/tmdals010126"><img src="https://avatars.githubusercontent.com/u/26674692?v=4" width="100px;" alt=""/><br /><sub><b>tmdals010126</b></sub></a></td>
+    <td align="center"><a href="https://github.com/chagieun"><img src="https://avatars.githubusercontent.com/u/90942759?v=4" width="100px;" alt=""/><br /><sub><b>chagieun</b></sub></a></td>
   </tr>
 </table>
 
